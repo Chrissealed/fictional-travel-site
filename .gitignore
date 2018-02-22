@@ -7,6 +7,7 @@
 *.swo
 *.swp
 *.vi
+*.vim
 *~
 *.sass-cache
 node_modules/
@@ -21,6 +22,7 @@ Thumbs.db
 .tmproj
 *.esproj
 nbproject
+*.code-workspace
 *.sublime-project
 *.sublime-workspace
 *.komodoproject
